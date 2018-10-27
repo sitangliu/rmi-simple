@@ -1,1 +1,2 @@
 the first to use git 欢迎指导
+hello ,my name is liu kai
